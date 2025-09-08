@@ -4,15 +4,15 @@
 
 **1) Which of these is correct? a. b. c. d.**
 
-- [x] Fundamental niche > Realised niche  
+- [ ] Fundamental niche > Realised niche  
 - [ ] Fundamental niche = Realised niche  
 - [ ] Fundamental niche < Realised niche  
-- [ ] a or b  
+- [x] a or b  
 
 Yes, the answer is correct.  
 Score: 1  
 Accepted Answers:  
-*Fundamental niche > Realised niche*  
+*a or b*  
 
 ---
 
