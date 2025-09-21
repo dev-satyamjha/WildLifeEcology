@@ -93,11 +93,11 @@ Correct Answer: *ex-situ conservation*
 **9) Which of these is a stochastic factor?**
 
 - [ ] birth rate  
-- [x] death rate  
+- [ ] death rate  
 - [ ] population structure  
-- [ ] environmental fluctuation  
+- [x] environmental fluctuation  
 
-Correct Answer: *death rate*  
+Correct Answer: *environmental fluctuation*  
 
 ---
 
