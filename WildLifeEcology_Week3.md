@@ -48,12 +48,12 @@ Accepted Answers: rB > C
 **Harmonious interactions occur where**
 - [ ] at least one participant is benefited
 - [ ] at least one participant is unharmed
-- [x] both participants are benefitted
-- [ ] both participants are unharmed
+- [ ] both participants are benefitted
+- [x] both participants are unharmed
 
 Yes, the answer is correct.  
 Score: 1  
-Accepted Answers: both participants are benefitted
+Accepted Answers: both participants are unharmed
 
 ---
 
